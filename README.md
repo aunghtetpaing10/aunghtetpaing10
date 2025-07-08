@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **LangChain, LangGraph, OpenAI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aunghtetpaing10](https://github.com/aunghtetpaing10](https://github.com/aunghtetpaing10?tab=repositories)](https://github.com/aunghtetpaing10)
+- 👨‍💻 All of my projects are available at [https://github.com/aunghtetpaing10](https://github.com/aunghtetpaing10)
 
 - 📫 How to reach me **aunghtetpaing211199@gmail.com**
 
